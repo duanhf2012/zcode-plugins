@@ -1,0 +1,7 @@
+{
+  "name": "devflow",
+  "version": "0.2.0",
+  "description": "需求分析 → 设计 → 实施三步门禁工作流：每步产出文档并停在人工确认点，靠文档状态头串联",
+  "author": { "name": "boyce" },
+  "skills": "./skills"
+}
