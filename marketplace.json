@@ -4,7 +4,7 @@
     {
       "name": "devflow",
       "source": "./devflow",
-      "version": "0.2.2",
+      "version": "0.2.3",
       "description": "Gated dev workflow: analyze, step-wise design & implement, review",
       "displayName": "DevFlow",
       "displayName_i18n": {
