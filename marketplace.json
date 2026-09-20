@@ -4,14 +4,14 @@
     {
       "name": "devflow",
       "source": "./devflow",
-      "version": "0.2.1",
-      "description": "Three-step gated dev workflow: requirement analysis, design, implementation",
+      "version": "0.2.2",
+      "description": "Gated dev workflow: analyze, step-wise design & implement, review",
       "displayName": "DevFlow 工作流",
       "displayName_i18n": {
         "zh-CN": "DevFlow 工作流"
       },
       "description_i18n": {
-        "zh-CN": "需求分析 → 设计 → 实施三步门禁工作流：每步产出文档并停在人工确认点，靠文档状态头串联"
+        "zh-CN": "开发门禁工作流技能集：df-analyze 需求分析 → df-design 规模分级分步设计（S1 接口契约前置）→ df-implement 分步实施 → df-review 四层评审；文档状态头串联人工闸门"
       },
       "category": "developer-tools"
     }
