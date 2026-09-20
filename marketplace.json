@@ -6,9 +6,9 @@
       "source": "./devflow",
       "version": "0.2.2",
       "description": "Gated dev workflow: analyze, step-wise design & implement, review",
-      "displayName": "DevFlow 工作流",
+      "displayName": "DevFlow",
       "displayName_i18n": {
-        "zh-CN": "DevFlow 工作流"
+        "zh-CN": "DevFlow"
       },
       "description_i18n": {
         "zh-CN": "开发门禁工作流技能集：df-analyze 需求分析 → df-design 规模分级分步设计（S1 接口契约前置）→ df-implement 分步实施 → df-review 四层评审；文档状态头串联人工闸门"
